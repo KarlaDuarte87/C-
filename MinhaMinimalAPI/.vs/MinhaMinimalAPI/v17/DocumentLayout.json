@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karla Duarte\\source\\repos\\MinhaMinimalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4804FF2-B96A-4315-B677-B712CBE444D9}|MinhaMinimalAPI\\MinhaMinimalAPI.csproj|c:\\users\\karla duarte\\source\\repos\\minhaminimalapi\\minhaminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4804FF2-B96A-4315-B677-B712CBE444D9}|MinhaMinimalAPI\\MinhaMinimalAPI.csproj|solutionrelative:minhaminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4804FF2-B96A-4315-B677-B712CBE444D9}|MinhaMinimalAPI\\MinhaMinimalAPI.csproj|c:\\users\\karla duarte\\source\\repos\\minhaminimalapi\\minhaminimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4804FF2-B96A-4315-B677-B712CBE444D9}|MinhaMinimalAPI\\MinhaMinimalAPI.csproj|solutionrelative:minhaminimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karla Duarte\\source\\repos\\MinhaMinimalAPI\\MinhaMinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MinhaMinimalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Karla Duarte\\source\\repos\\MinhaMinimalAPI\\MinhaMinimalAPI\\Program.cs",
+              "RelativeToolTip": "MinhaMinimalAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T01:36:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Karla Duarte\\source\\repos\\MinhaMinimalAPI\\MinhaMinimalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MinhaMinimalAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Karla Duarte\\source\\repos\\MinhaMinimalAPI\\MinhaMinimalAPI\\appsettings.json",
+              "RelativeToolTip": "MinhaMinimalAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T01:35:56.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
